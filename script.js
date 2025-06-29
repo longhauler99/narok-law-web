@@ -196,7 +196,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 // WhatsApp integration (you can customize the phone number)
 function openWhatsApp() {
-    const phoneNumber = "254xxxxxxxxx"; // Replace with actual number
+    const phoneNumber = "254105984837"; // Replace with actual number
     const message = "Hello! I would like to inquire about your legal services.";
     const url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
     window.open(url, '_blank');

@@ -477,7 +477,7 @@
             <hr class="my-4 border-light">
             <div class="row align-items-center">
                 <div class="col-md-6">
-                    <p class="text-light mb-0">&copy; 2024 Lemein & Co. Advocates. All rights reserved.</p>
+                    <p class="text-light mb-0">&copy; <?php echo date("Y") ?> Lemein & Co. Advocates. All rights reserved.</p>
                 </div>
                 <div class="col-md-6 text-md-end">
                     <a href="#" class="text-light text-decoration-none me-3">Privacy Policy</a>
