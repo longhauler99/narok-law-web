@@ -1,14 +1,13 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Lemein and Co. Advocates | Professional Legal Services in Narok</title>
+    <title>Murunya Lemein and Co. Advocates | Professional Legal Services in Narok</title>
     <meta name="description" content="Professional legal services in Narok Town. Criminal Law, Civil Litigation, Family Law, Property & Land Matters, Employment Law. Located at Kims Plaza." />
-    <meta name="author" content="Lemein and Co. Advocates" />
+    <meta name="author" content="Murunya Lemein and Co. Advocates" />
 
-    <meta property="og:title" content="Lemein and Co. Advocates | Professional Legal Services in Narok" />
+    <meta property="og:title" content="Murunya Lemein and Co. Advocates | Professional Legal Services in Narok" />
     <meta property="og:description" content="Professional legal services in Narok Town. Criminal Law, Civil Litigation, Family Law, Property & Land Matters, Employment Law." />
     <meta property="og:type" content="website" />
 
@@ -28,7 +27,7 @@
         <div class="container">
             <a class="navbar-brand d-flex align-items-center" href="#home">
                 <i class="bi bi-scale me-2"></i>
-                <span class="fw-bold">Lemein & Co. Advocates</span>
+                <span class="fw-bold">Murunya Lemein & Co. Advocates</span>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
@@ -64,7 +63,7 @@
                     <div class="mb-4">
                         <i class="bi bi-scale display-1 text-gold mb-3"></i>
                     </div>
-                    <h1 class="display-2 fw-bold mb-4 fade-in-up">Lemein & Co. Advocates</h1>
+                    <h1 class="display-2 fw-bold mb-4 fade-in-up">Murunya Lemein & Co. Advocates</h1>
                     <p class="lead mb-4 text-light fade-in-up">Justice, Integrity, and Results</p>
                     <p class="fs-5 mb-5 text-light fade-in-up">
                         Professional legal services in Narok Town. We provide comprehensive legal solutions 
@@ -421,7 +420,7 @@
         <div class="container">
             <div class="row g-4">
                 <div class="col-lg-4">
-                    <h5 class="fw-bold mb-3">Lemein & Co. Advocates</h5>
+                    <h5 class="fw-bold mb-3">Murunya Lemein & Co. Advocates</h5>
                     <p class="text-light mb-4">
                         Professional legal services in Narok Town. We are committed to providing exceptional 
                         legal representation with integrity and dedication.
@@ -477,7 +476,7 @@
             <hr class="my-4 border-light">
             <div class="row align-items-center">
                 <div class="col-md-6">
-                    <p class="text-light mb-0">&copy; <?php echo date("Y") ?> Lemein & Co. Advocates. All rights reserved.</p>
+                    <p class="text-light mb-0">&copy; <?php echo date("Y") ?> Murunya Lemein & Co. Advocates. All rights reserved.</p>
                 </div>
                 <div class="col-md-6 text-md-end">
                     <a href="#" class="text-light text-decoration-none me-3">Privacy Policy</a>
